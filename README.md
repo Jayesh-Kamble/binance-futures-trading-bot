@@ -240,12 +240,11 @@ This project is licensed under the **MIT License** – see `LICENSE` file for de
 
 ## 📬 Contact
 
-**Developer**: Your Name  
-**Email**: your.email@example.com  
-**GitHub**: [@your-username](https://github.com/your-username)  
-**LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-linkedin)
+**Developer**: Jayesh Kamble  
+**LinkedIn**: [Jayesh Kamble](https://www.linkedin.com/in/jayesh-kamble-/)
 
 ---
+
 
 ⭐ **If this project helped you, give it a star!**  
 *Built with 💻 and 💡 to learn algorithmic trading and backend Python systems.*
