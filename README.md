@@ -1,6 +1,6 @@
 # 🚀 Binance Futures Trading Bot
 
-A professional-grade Python-based command-line trading bot for Binance USDT-M Futures. It supports **market and limit orders**, comes with **modular architecture**, **robust logging**, and **error handling** — ideal for showcasing your backend engineering and trading automation skills.
+A professional-grade Python-based command-line trading bot for Binance USDT-M Futures. It supports **market and limit orders**, comes with **modular architecture**, **robust logging**, and **error handling** ideal for showcasing your backend engineering and trading automation skills.
 
 ---
 
